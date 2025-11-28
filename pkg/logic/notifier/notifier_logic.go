@@ -3,8 +3,8 @@ package notifier
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/sprugit/thief-is-the-comparison-of-joy-core.git/pkg/stubs/messaging"
-	"github.com/sprugit/thief-is-the-comparison-of-joy-core.git/pkg/stubs/observability"
+	"github.com/sprugit/thief-is-the-comparison-of-joy-core/pkg/stubs/messaging"
+	"github.com/sprugit/thief-is-the-comparison-of-joy-core/pkg/stubs/observability"
 	"net/http"
 	"time"
 )

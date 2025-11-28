@@ -1,9 +1,9 @@
 package persister
 
 import (
-	"github.com/sprugit/thief-is-the-comparison-of-joy-core.git/pkg/stubs/messaging"
-	"github.com/sprugit/thief-is-the-comparison-of-joy-core.git/pkg/stubs/observability"
-	"github.com/sprugit/thief-is-the-comparison-of-joy-core.git/pkg/stubs/persistance"
+	"github.com/sprugit/thief-is-the-comparison-of-joy-core/pkg/stubs/messaging"
+	"github.com/sprugit/thief-is-the-comparison-of-joy-core/pkg/stubs/observability"
+	"github.com/sprugit/thief-is-the-comparison-of-joy-core/pkg/stubs/persistance"
 )
 
 type PersistFuncFactory struct {

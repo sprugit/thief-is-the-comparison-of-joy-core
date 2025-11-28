@@ -1,6 +1,6 @@
 package messaging
 
-import "github.com/sprugit/thief-is-the-comparison-of-joy-core.git/pkg/model"
+import "github.com/sprugit/thief-is-the-comparison-of-joy-core/pkg/model"
 
 type Publisher interface {
 	Publish(order model.Order) error

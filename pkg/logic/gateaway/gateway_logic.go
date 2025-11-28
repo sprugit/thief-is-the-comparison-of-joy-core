@@ -2,9 +2,9 @@ package gateaway
 
 import (
 	"encoding/json"
-	"github.com/sprugit/thief-is-the-comparison-of-joy-core.git/pkg/model"
-	"github.com/sprugit/thief-is-the-comparison-of-joy-core.git/pkg/stubs/messaging"
-	"github.com/sprugit/thief-is-the-comparison-of-joy-core.git/pkg/stubs/observability"
+	"github.com/sprugit/thief-is-the-comparison-of-joy-core/pkg/model"
+	"github.com/sprugit/thief-is-the-comparison-of-joy-core/pkg/stubs/messaging"
+	"github.com/sprugit/thief-is-the-comparison-of-joy-core/pkg/stubs/observability"
 	"io"
 	"net/http"
 )
